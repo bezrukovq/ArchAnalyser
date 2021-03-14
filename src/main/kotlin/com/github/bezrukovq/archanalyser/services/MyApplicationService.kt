@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bezrukovq.archanalyser.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bezrukovq.archanalyser.MyBundle
 
 class MyApplicationService {
 
